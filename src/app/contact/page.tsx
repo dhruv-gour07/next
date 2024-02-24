@@ -14,7 +14,7 @@ export default function BackgroundBeamsDemo() {
         </h1>
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-xl text-center relative z-10">
-          Email us: dxdhruv333@gmail.com 
+          Email us: dxdhruv333@gmail.com / divvysharma2002@gmail.com
         </p>
       </div>
       <BackgroundBeams />
