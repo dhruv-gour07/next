@@ -11,7 +11,7 @@ const myWork = () => {
       <div className="mx-auto flex items-center justify-center mt-28 flex-col">
         <Link href={myLink}>
           <p className="bg-gradient-to-b mb-7 from-slate-50 to-neutral-800 font-extrabold text-transparent bg-clip-text text-2xl">
-            Click here to go to: Naayra Travels Website
+            Naayra Travels Website
           </p>
           <Image
             src="/naayra-travels.PNG"
