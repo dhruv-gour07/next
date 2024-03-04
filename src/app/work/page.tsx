@@ -14,7 +14,7 @@ const myWork = () => {
             Click here to go to: Naayra Travels Website
           </p>
           <Image
-            src="/naayra-travels.png"
+            src="/naayra-travels.PNG"
             width={500}
             height={500}
             alt="ScreenShot image of naayra travels website"
